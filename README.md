@@ -2,4 +2,4 @@
 Web installer for the AstroPixels boards
 
 the installer can be used here:
-https://reeltwo.github.io/astropixels-esp32-installer/
+https://reeltwo.github.io/AstroPixels-Installer/
