@@ -1,0 +1,30 @@
+[
+    {
+        "name": "AstroPixelsPlus-22.10.07",
+        "branch": "22.10.07",
+        "description": "### 2022 October 7",
+        "url": "https://github.com/reeltwo/AstroPixelsPlus/releases/download/22.10.07/AstroPixelsPlus.bin",
+        "zipfile": "https://github.com/reeltwo/AstroPixelsPlus/releases/download/22.10.07/AstroPixelsPlus.zip",
+        "release_details": {
+            "version": "22.10.07",
+            "idf": "v4.3",
+            "platform": "AstroPixelsPlus",
+            "branch": "22.10.07"
+        },
+        "manifest_name": "AstroPixelsPlus-22.10.07-manifest.json"
+    },
+    {
+        "name": "AstroPixels-22.10.07",
+        "branch": "22.10.07",
+        "description": "### 2022 October 7",
+        "url": "https://github.com/reeltwo/AstroPixels/releases/download/22.10.07/AstroPixels.bin",
+        "zipfile": "https://github.com/reeltwo/AstroPixels/releases/download/22.10.07/AstroPixels.zip",
+        "release_details": {
+            "version": "22.10.07",
+            "idf": "v4.3",
+            "platform": "AstroPixels",
+            "branch": "22.10.07"
+        },
+        "manifest_name": "AstroPixels-22.10.07-manifest.json"
+    }
+]
