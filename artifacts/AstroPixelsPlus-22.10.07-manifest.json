@@ -1,8 +1,6 @@
 {
     "name": "AstroPixelsPlus",
     "version": "22.10.07",
-    "home_assistant_domain": "slim_player",
-    "funding_url": "https://esphome.io/guides/supporters.html",
     "new_install_prompt_erase": true,
     "new_install_improv_wait_time": 0,
     "builds": [
@@ -10,7 +8,7 @@
             "chipFamily": "ESP32",
             "parts": [
                 {
-                    "path": "AstroPixelsPlus-22.10.07.bin",
+                    "path": "AstroPixelsPlus-3c628e7.bin",
                     "offset": 0
                 }
             ]
