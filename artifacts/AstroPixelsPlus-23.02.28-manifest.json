@@ -1,0 +1,18 @@
+{
+    "name": "AstroPixelsPlus",
+    "version": "23.02.28",
+    "new_install_prompt_erase": true,
+    "new_install_improv_wait_time": 0,
+    "builds": [
+        {
+            "chipFamily": "ESP32",
+            "parts": [
+                {
+                    "path": "AstroPixelsPlus-b856c27.bin",
+                    "offset": 0
+                }
+            ]
+        }
+    ],
+    "manifest_name": "AstroPixelsPlus-23.02.28-manifest.json"
+}
